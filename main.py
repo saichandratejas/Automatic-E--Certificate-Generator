@@ -1,5 +1,5 @@
 import cv2
-list_names =['Tejas']
+list_names =['Tejas','Arjun','Abhi','Jack','Ani']
 
 
 for index, name in enumerate(list_names):
